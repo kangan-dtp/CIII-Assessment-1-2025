@@ -1,0 +1,22 @@
+1.  How did you debug the code?
+Examples
+- print statements
+- checking output
+- testing
+
+2.  How did you test your algorithm?  How did you go from algorithm to code?
+Examples
+- desk checking
+- walk through of flow chart
+
+3. How did you test your program?
+Examples
+- desk checking
+- running and viewing outputs
+- Asserts
+
+4.  What is the advantage of using Jupyter and CoLab?  Do you know of any other programming languages?
+Examples
+- AI
+- Text and code in one place
+
